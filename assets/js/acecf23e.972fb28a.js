@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfantasy_flower=self.webpackChunkfantasy_flower||[]).push([[903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/fantasyflower/blog","blogTitle":"Blog","authorsListPath":"/fantasyflower/blog/authors"}')}}]);
