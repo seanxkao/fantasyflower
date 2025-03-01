@@ -1,6 +1,7 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 const FeatureList = [
   {
@@ -12,6 +13,16 @@ const FeatureList = [
       </>
     ),
   },
+  {
+    title: '開發日誌',
+    image: '/img/myo_chibi.png',
+    description: (
+      <>
+        紀錄開發的過程。
+      </>
+    ),
+  },
+  /*
   {
     title: 'Focus on What Matters',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
@@ -32,6 +43,7 @@ const FeatureList = [
       </>
     ),
   },
+  */
 ];
 
 function Feature({Svg, image, title, description}) {
@@ -40,7 +52,7 @@ function Feature({Svg, image, title, description}) {
       <div className="text--center">
         {
           image ? (
-            <img src={image} className={styles.featureImage} alt={title} />
+            <img src={useBaseUrl(image)} className={styles.featureImage} alt={title} />
         ) : Svg ? (
           <Svg className={styles.featureSvg} role="img" />
         ) : null }

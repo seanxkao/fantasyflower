@@ -2,46 +2,14 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 歡迎
 
-Let's discover **Docusaurus in less than 5 minutes**.
+歡迎來到「幻花敘事曲」官方網站。  
+這是一款開發中的一般向視覺小說，是一個在奇幻世界中以超能力進行智鬥的故事。  
 
-## Getting Started
+# 世界觀概要
 
-Get started by **creating a new site**.
+這是一個奇幻與科幻的世界。人類擁有異能與機械，異獸天生擁有強大能力和肉體，雙方無止盡的鬥爭著。  
+在遙遠的過去曾發生過讓整個世界動盪不安的兩次大戰，現在是第二次遠古大戰結束後快600年。在相對平穩的數百年後，一名古老異獸的殞落讓人跟異獸的戰力平衡打破，世界再度陷入戰亂。  
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+在這個關頭，忽然一位普通人「納西瑟斯．歐菲爾」因為不明能力與原因穿越到了此世界，故事便這樣開始了。他不知道的是，他所經歷的故事在近兩年後，會演變成牽扯了整個世界絕大多數勢力的重大事件「代卡波事變」。

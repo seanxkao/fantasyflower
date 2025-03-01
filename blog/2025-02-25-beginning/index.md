@@ -1,7 +1,7 @@
 ---
-slug: beginning
+slug: concept
 title: 開始
 tags: [docusaurus]
 ---
 
-一切的開始
+成功架站。雖然條目還亂七八糟，不過總算開始了。

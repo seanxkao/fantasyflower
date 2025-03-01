@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '幻花敘事曲',
-  tagline: '世界觀與設定',
+  tagline: '規則系異能戰鬥 AVG ',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -83,7 +83,7 @@ const config = {
         title: '幻花敘事曲',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/myo_chibi.png',
         },
         items: [
           {
@@ -121,11 +121,7 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                href: 'https://discord.gg/PXPFhPSbBB',
               },
             ],
           },
@@ -143,7 +139,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Fantasy Flower, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
