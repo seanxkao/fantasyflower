@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfantasy_flower=self.webpackChunkfantasy_flower||[]).push([[130],{7139:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/fantasyflower/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

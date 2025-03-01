@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfantasy_flower=self.webpackChunkfantasy_flower||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u958b\u59cb","permalink":"/fantasyflower/blog/beginning","unlisted":false,"date":"2025-02-25T00:00:00.000Z"}]}')}}]);
