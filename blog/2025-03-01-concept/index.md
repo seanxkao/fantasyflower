@@ -1,5 +1,5 @@
 ---
-slug: beginning
+slug: concept
 title: 新增世界觀
 tags: [docusaurus]
 ---

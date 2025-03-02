@@ -1,5 +1,5 @@
 ---
-slug: concept
+slug: beginning
 title: 開始
 tags: [docusaurus]
 ---
