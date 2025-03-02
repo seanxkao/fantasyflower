@@ -9,8 +9,8 @@
     <icon>https://seanxkao.github.io/fantasyflower/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[新增世界觀]]></title>
-        <id>https://seanxkao.github.io/fantasyflower/blog/beginning</id>
-        <link href="https://seanxkao.github.io/fantasyflower/blog/beginning"/>
+        <id>https://seanxkao.github.io/fantasyflower/blog/concept</id>
+        <link href="https://seanxkao.github.io/fantasyflower/blog/concept"/>
         <updated>2025-03-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[修復了部分毀損的圖片連結，並新增世界觀與劇情，但首頁還是很醜。]]></summary>
         <content type="html"><![CDATA[<p>修復了部分毀損的圖片連結，並新增世界觀與劇情，但首頁還是很醜。</p>]]></content>
@@ -18,8 +18,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[開始]]></title>
-        <id>https://seanxkao.github.io/fantasyflower/blog/concept</id>
-        <link href="https://seanxkao.github.io/fantasyflower/blog/concept"/>
+        <id>https://seanxkao.github.io/fantasyflower/blog/beginning</id>
+        <link href="https://seanxkao.github.io/fantasyflower/blog/beginning"/>
         <updated>2025-02-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[成功架站。雖然條目還亂七八糟，不過總算開始了。]]></summary>
         <content type="html"><![CDATA[<p>成功架站。雖然條目還亂七八糟，不過總算開始了。</p>]]></content>
