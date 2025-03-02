@@ -14,6 +14,15 @@ const FeatureList = [
     ),
   },
   {
+    title: '劇本試讀',
+    image: '/img/myo.png',
+    description: (
+      <>
+        收錄已公開的故事片段。
+      </>
+    ),
+  },
+  {
     title: '開發日誌',
     image: '/img/myo_chibi.png',
     description: (

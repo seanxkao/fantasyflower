@@ -87,10 +87,18 @@ const config = {
         },
         items: [
           {
+            to: 'docs/intro',
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
-            position: 'left',
             label: '世界觀與設定',
+            position: 'left',
+          },
+          {
+            type: 'doc',
+            docId: 'stories',
+            sidebarId: 'tutorialSidebar',
+            label: '劇本試讀',
+            position: 'left',
           },
           {
             to: '/blog',
