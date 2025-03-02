@@ -83,7 +83,7 @@ const config = {
         title: '幻花敘事曲',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/myo_chibi.png',
+          src: 'img/myo.png',
         },
         items: [
           {
