@@ -7,6 +7,7 @@ const FeatureList = [
   {
     title: '世界觀與設定',
     image: '/img/crazy_battle.jpg',
+    link: './docs/intro',
     description: (
       <>
         總之就是世界觀與設定。
@@ -16,6 +17,7 @@ const FeatureList = [
   {
     title: '劇本試讀',
     image: '/img/myo.png',
+    link: './docs/stories',
     description: (
       <>
         收錄已公開的故事片段。
@@ -25,6 +27,7 @@ const FeatureList = [
   {
     title: '開發日誌',
     image: '/img/myo_chibi.png',
+    link: './blog',
     description: (
       <>
         紀錄開發的過程。
@@ -55,22 +58,31 @@ const FeatureList = [
   */
 ];
 
-function Feature({Svg, image, title, description}) {
+function Feature({Svg, image, title, link, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        {
-          image ? (
-            <img src={useBaseUrl(image)} className={styles.featureImage} alt={title} />
-        ) : Svg ? (
-          <Svg className={styles.featureSvg} role="img" />
-        ) : null }
+          <a href={link}>
+          {
+            Image({Svg, image, title})
+          }
+          </a>
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
         <p>{/*description*/}</p>
       </div>
     </div>
+  );
+}
+
+function Image({ Svg, image, title }) { 
+  return (
+      image ? (
+        <img src={useBaseUrl(image)} className={styles.featureImage} alt={title} />
+    ) : Svg ? (
+      <Svg className={styles.featureSvg} role="img" />
+    ) : null 
   );
 }
 
