@@ -9,12 +9,12 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[開始]]></title>
-            <link>https://seanxkao.github.io/fantasyflower/blog/beginning</link>
-            <guid>https://seanxkao.github.io/fantasyflower/blog/beginning</guid>
+            <title><![CDATA[調整縮圖]]></title>
+            <link>https://seanxkao.github.io/fantasyflower/blog/thumbnail</link>
+            <guid>https://seanxkao.github.io/fantasyflower/blog/thumbnail</guid>
             <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[成功架站。雖然條目還亂七八糟，不過總算開始了。]]></description>
-            <content:encoded><![CDATA[<p>成功架站。雖然條目還亂七八糟，不過總算開始了。</p>]]></content:encoded>
+            <description><![CDATA[替換縮圖，移除所有 Docusaurus 暫代素材。]]></description>
+            <content:encoded><![CDATA[<p>替換縮圖，移除所有 Docusaurus 暫代素材。</p>]]></content:encoded>
             <category>Docusaurus</category>
         </item>
         <item>

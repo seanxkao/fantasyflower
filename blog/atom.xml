@@ -8,12 +8,12 @@
     <subtitle>幻花敘事曲 Blog</subtitle>
     <icon>https://seanxkao.github.io/fantasyflower/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[開始]]></title>
-        <id>https://seanxkao.github.io/fantasyflower/blog/beginning</id>
-        <link href="https://seanxkao.github.io/fantasyflower/blog/beginning"/>
+        <title type="html"><![CDATA[調整縮圖]]></title>
+        <id>https://seanxkao.github.io/fantasyflower/blog/thumbnail</id>
+        <link href="https://seanxkao.github.io/fantasyflower/blog/thumbnail"/>
         <updated>2025-03-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[成功架站。雖然條目還亂七八糟，不過總算開始了。]]></summary>
-        <content type="html"><![CDATA[<p>成功架站。雖然條目還亂七八糟，不過總算開始了。</p>]]></content>
+        <summary type="html"><![CDATA[替換縮圖，移除所有 Docusaurus 暫代素材。]]></summary>
+        <content type="html"><![CDATA[<p>替換縮圖，移除所有 Docusaurus 暫代素材。</p>]]></content>
         <category label="Docusaurus" term="Docusaurus"/>
     </entry>
     <entry>
