@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfantasy_flower=self.webpackChunkfantasy_flower||[]).push([[550],{4798:s=>{s.exports=JSON.parse('{"tags":[{"label":"Docusaurus","permalink":"/fantasyflower/blog/tags/docusaurus","description":"Docusaurus tag description","count":2}]}')}}]);
