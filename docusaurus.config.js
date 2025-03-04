@@ -78,7 +78,7 @@ const config = {
       },
       
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/myo_chibi.jpg',
       navbar: {
         title: '幻花敘事曲',
         logo: {
