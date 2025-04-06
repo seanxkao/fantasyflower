@@ -4,10 +4,16 @@ sidebar_position: 5
 
 # 墜入兔洞
 
-「墜入兔洞」是序曲中的一場典型的「異獸對能力者」的戰鬥。之所以節選這段，是因為它具有典型幻花式的戰鬥方式，也就是不停試探對手能力並見招拆招。  
-本文是劇本體，因此文本中會穿插演出的指示，例如淡入淡出，回憶濾鏡等等。  
+「墜入兔洞」是序曲中的一場典型的「異獸對能力者」的戰鬥。之所以節選這段，是因為它具有典型幻花式的戰鬥方式，也就是不停試探對手能力並見招拆招，因此是一場很有代表性的智鬥。  
+以下是製作到一半的 DEMO，目前還使用了大量的暫代圖片、小畫家或是其他遊戲中的音樂。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AswrPBQ4oHM?si=X0IERmtaN2zfftUZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 原始劇本
 ![](img/down_the_rabbit_hole.png)
+
+以下是這段劇情的原始劇本： 
+
 
 ## 事件當天
 
