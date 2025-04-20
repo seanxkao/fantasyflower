@@ -87,7 +87,7 @@ const config = {
         },
         items: [
           {
-            to: 'docs/intro',
+            to: 'docs/settings',
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             label: '世界觀與設定',
@@ -120,7 +120,7 @@ const config = {
             items: [
               {
                 label: '世界觀與設定',
-                to: '/docs/intro',
+                to: '/docs/settings',
               },
             ],
           },

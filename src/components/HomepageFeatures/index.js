@@ -7,7 +7,7 @@ const FeatureList = [
   {
     title: '世界觀與設定',
     image: '/img/crazy_battle.jpg',
-    link: './docs/intro',
+    link: './docs/settings',
     description: (
       <>
         總之就是世界觀與設定。
